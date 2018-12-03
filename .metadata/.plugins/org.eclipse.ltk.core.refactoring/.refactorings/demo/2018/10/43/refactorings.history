@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ProductController.java&apos; to &apos;demo/src/main/java/com.mtc.app.controller&apos;&#x0A;- Original project: &apos;demo&apos;&#x0A;- Destination element: &apos;demo/src/main/java/com.mtc.app.controller&apos;&#x0A;- Original element: &apos;com.mtc.app.ProductController.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.mtc.app.controller" element1="/src\/main\/java&lt;com.mtc.app{ProductController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" log="/src\/main\/java&lt;com.mtc.app&#x09;/src\/main\/java&lt;com.mtc.app.controller" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1540433228947" units="1" version="1.0"/>
+</session>
